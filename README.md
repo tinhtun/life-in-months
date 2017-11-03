@@ -1,6 +1,10 @@
 # life-in-months
 Visualizing your life expctancy in months
 
+## Inspiration
+- https://waitbutwhy.com/2015/12/the-tail-end.html
+- https://medium.com/the-mission/if-you-dont-want-to-regret-your-life-30-years-later-make-this-one-choice-right-now-1cc137516df0
+
 ## Initial sketch
 ``` html
 <div id="resultsTable">
