@@ -1,6 +1,10 @@
 # life-in-months
 Visualizing your life expctancy in months
 
+## Alraedy Existed
+Since someone has already done [this](https://www.bryanbraun.com/your-life/months.html), I won't be doing it anymore. :relaxed:
+
+
 ## Inspiration
 - https://waitbutwhy.com/2015/12/the-tail-end.html
 - https://medium.com/the-mission/if-you-dont-want-to-regret-your-life-30-years-later-make-this-one-choice-right-now-1cc137516df0
